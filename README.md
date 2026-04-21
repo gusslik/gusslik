@@ -37,7 +37,7 @@
     <td>2026</td>
     <td>True Tech Hack (MTS) — LocalScript: local agent system for Lua code generation</td>
     <td>Backend Developer</td>
-    <td><a href="[#](https://github.com/Term1nat000r/MTS-True-Tech-Hack)">View</a></td>
+    <td><a href="https://github.com/Term1nat000r/MTS-True-Tech-Hack">View</a></td>
   </tr>
 </table>
 
