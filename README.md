@@ -1,28 +1,28 @@
-<h1 align="left">Hi, I am Grigorii, a C and C++ developer</h1>
+<h1 align="left">📖 Hi! I am Grigorii, a C and C++ developer</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👀 About me</h2>
 
 ###
 
-<h4 align="left">Education: Moscow, HSE University - "Computer Science and Engineering"</h4>
+<h4 align="left">🎓 Education: Moscow, HSE University - "Computer Science and Engineering"</h4>
 
 ###
 
-<h4 align="left">My experience: backend development with JS and Python</h4>
+<h4 align="left">👷 My experience: backend development with JS and Python</h4>
 
 ###
 
-<h4 align="left">Currently Learning: embedded engineering, C and C++</h4>
+<h4 align="left">📖 Currently learning: embedded engineering, C and C++</h4>
 
 ###
 
-<h4 align="left">My dream: to become a developer in aerospace industry</h4>
+<h4 align="left">🌟 My dream: to become a developer in aerospace industry</h4>
 
 ###
 
-<h2 align="left">My achievements</h2>
+<h2 align="left">🏅 My achievements</h2>
 
 ###
 
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-<h2 align="left">My skills</h2>
+<h2 align="left">🧰 My skills</h2>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h2 align="left">My contacts</h2>
+<h2 align="left">☎️ My contacts</h2>
 
 ###
 
