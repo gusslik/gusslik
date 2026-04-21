@@ -30,13 +30,15 @@
   <tr>
     <th>Year</th>
     <th>Name</th>
-    <th>My Role</th>
+    <th>Role</th>
+    <th>Result</th>
     <th>Link</th>
   </tr>
   <tr>
     <td>2026</td>
     <td>True Tech Hack (MTS) — LocalScript: local agent system for Lua code generation</td>
     <td>Backend Developer</td>
+    <th>Participant</th>
     <td><a href="https://github.com/Term1nat000r/MTS-True-Tech-Hack">View</a></td>
   </tr>
 </table>
