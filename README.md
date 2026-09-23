@@ -10,15 +10,15 @@
 
 ###
 
-<h4 align="left">👷 My experience: backend development with JS and Python</h4>
+<h4 align="left">👷 My experience: C and C++ development</h4>
 
 ###
 
-<h4 align="left">📖 Currently learning: embedded engineering, C and C++</h4>
+<h4 align="left">📖 Currently learning: Embedded Engineering, System Programming in Linux and ESP32</h4>
 
 ###
 
-<h4 align="left">🌟 My dream: to become a developer in aerospace industry</h4>
+<h4 align="left">🌟 My dream: To become a developer in the aerospace industry</h4>
 
 ###
 
