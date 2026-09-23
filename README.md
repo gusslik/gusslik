@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🎓 Education: Moscow, HSE University - "Computer Science and Engineering"</h4>
+<h4 align="left">🎓 Education: Moscow, HSE University - "Computer Science and Computational Technologies"</h4>
 
 ###
 
